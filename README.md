@@ -168,6 +168,9 @@ vinayak = {
 
 <!-- BLOG-POST-LIST:START -->
 - [My RAG App Was Confidently Wrong — That’s When I Found CRAG](https://medium.com/@vinayak1672006/why-rag-isnt-enough-understanding-crag-architecture-532c9bdfdfff?source=rss-768eaa045335------2)
+  
+- [Building an LLM From Scratch. Here’s Where It All Starts.](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870)
+  Posted with TowardsAI newsletter
 <!-- BLOG-POST-LIST:END -->
 
 ---
