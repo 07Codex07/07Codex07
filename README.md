@@ -19,8 +19,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=07Codex07&style=for-the-badge&color=FF4C4C&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/07Codex07?style=for-the-badge&color=1a0a2e&labelColor=FF4C4C&logo=github&label=FOLLOWERS)](https://github.com/07Codex07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sahu-8999a9259)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4C4C?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio07-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-sahu-8999a9259)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio07-one.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@vinayak1672006)
+[![Newsletter](https://img.shields.io/badge/The_Vector_Daily-FF6B35?style=flat&logo=substack&logoColor=white)](https://the-vector-daily.vercel.app/)
 
 </div>
 
