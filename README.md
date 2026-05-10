@@ -78,12 +78,16 @@ vinayak = {
 
 <div align="center">
 
-| 🔬 Project | 💡 What it does | 📈 Results |
-|:-----------|:----------------|:-----------|
-| **[🧩 PrepGraph](https://github.com/07Codex07/PrepGraph)** | RAG chatbot — hybrid BM25 + FAISS, semantic cache, smart query router (Llama 8b/70b) | **↓40% LLM calls**, ↓25% latency, ↓30% inference cost |
-| **[🖥️ Command Copilot](https://github.com/07Codex07/local_smart_linux_assistant)** | NL → Linux commands · LoRA fine-tuned Phi-2 · offline FastAPI deployment | **85% accuracy**, ↓40% inference time, zero cloud dependency |
-| **[👗 Reel2Retail](https://github.com/07Codex07/Reel2Retail)** | Fashion video → product detection + vibe classification (YOLOv8 + CLIP + NLP) | End-to-end CV + NLP pipeline |
-| **[📊 HIVE Big Data](https://github.com/07Codex07/HIVE_Big_Data)** | MovieLens analytics on Hadoop / HDFS / HiveQL (Cloudera stack) | Distributed analytics on **25M+ ratings** |
+
+| | Project | The honest description | What the numbers say |
+|---|---|---|---|
+| 🧩 | **PrepGraph** | RAG chatbot with hybrid BM25 + FAISS, semantic cache, and a query router that picks between Llama 8b and 70b based on whether your question deserves the big model | ↓40% LLM calls · ↓25% latency · ↓30% inference cost |
+| 🖥️ | **Command Copilot** | Fine-tuned Phi-2 (2.7B params) with LoRA to turn plain English into Linux commands. Runs completely offline. No cloud. No privacy leak. | 85% command accuracy · ↓40% inference time |
+| 🧠 | **ChatGPT Memory From Scratch** | Built a three-layer memory system (short-term dict → FAISS long-term → LLM summarization) without LangChain. Because I wanted to understand what "memory" actually means, not just call a library | No LangChain. Pure logic. |
+| 📈 | **FinVector Research** | Embedded financial news with FinBERT, clustered the semantic space, found that market regime shifts show up in the geometry of news embeddings *before* price moves | Applied on NIFTY 50 · 768-dim vectors · regime transition matrices |
+| 👗 | **Reel2Retail** | YOLOv8 detects clothing in video frames → CLIP embeds them → FAISS matches to catalog → NLP classifies the vibe. End-to-end CV + NLP pipeline | >75% match confidence threshold · full JSON output |
+| 📰 | **The Vector Daily** | Automated AI newsletter that scrapes arXiv, Medium, HuggingFace → LLM digest → HTML → sent to your inbox. Runs every day without me touching it. | 100+ articles/day · live in production |
+| 🛡️ | **SecuFlow** | SSH intrusion detection + Groq LLM threat analysis + Telegram bot for human approval + automatic UFW blocking. Human-in-the-loop security. | Real-time blocking · explainable AI threat reports |
 
 </div>
 
