@@ -174,6 +174,9 @@ vinayak = {
 
 I've been writing about this too — because writing forces me to find the gaps in my own understanding:
 
+📝 [**Building an LLM From Scratch: I Trained Word Embeddings on Dostoevsky — Here's What I Found**](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-i-trained-word-embeddings-on-dostoevsky-heres-what-i-found-b3169c1ae674) — *Towards AI*  
+[one-line teaser — share what you'd like it to say, or I'll draft something based on the theme]
+
 📝 [**Building an LLM From Scratch. Here's Where It All Starts.**](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870) — *Towards AI, May 2026*  
 Tokenization is not splitting words. BPE was invented for file compression in 1994. I didn't know that until I built it myself.
 
